@@ -7,15 +7,7 @@ Scrape.prototype.kissanime = function(){
     return video;
 }
 
-Scrape.prototype.mp4upload = function(){
-
-}
-
-Scrape.prototype.videonest = function(){
-
-}
-
-Scrape.prototype.streammoe = function(){
+video.prototype.animewatchtv = function(url){
 
 }
 
